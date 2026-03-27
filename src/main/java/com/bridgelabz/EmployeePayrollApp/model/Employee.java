@@ -3,7 +3,6 @@ package com.bridgelabz.EmployeePayrollApp.model;
 import jakarta.persistence.*;
 import lombok.*;
 
-
 @Entity
 @Data
 @NoArgsConstructor
